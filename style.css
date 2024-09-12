@@ -9,7 +9,7 @@
     width: 100%;
 }
 body{
-    background: url(/images/bg.jpg),rgba(0, 0, 0, 0.638);
+    background: url(bg.jpg),rgba(0, 0, 0, 0.638);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
